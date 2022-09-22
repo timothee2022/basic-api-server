@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
+    "username": "hsp20tim",
     "password": null,
-    "database": "database_development",
+    "database": "api-app",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "postgres"
   },
   "test": {
     "username": "root",
     "password": null,
-    "database": "database_test",
+    "database": "api-app",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
     "password": null,
-    "database": "database_production",
+    "database": "api-app",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "postgres"
   }
 }
